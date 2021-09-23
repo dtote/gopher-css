@@ -180,7 +180,6 @@
 
 .gopher-right-feet {
   transform: rotate(20deg);
-  
 }
 
 .gopher-left-feet {
@@ -190,9 +189,11 @@
 .gopher-right-feet .line {
   transform: rotate(20deg) translate(35px, -15px);
 }
+
 .gopher-left-feet .line {
-    transform: rotate(-20deg) translate(-35px, -15px);
+  transform: rotate(-20deg) translate(-35px, -15px);
 }
+
 .line {
   width: 30px;
   height: 3px;
